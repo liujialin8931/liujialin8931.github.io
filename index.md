@@ -4,15 +4,15 @@
 
 ### On-going project (updated March 20, 2020)
 
-> Assessment on Transportation Related Carbon Dioxide Emissions in the Yangtze River Delta, Jialin Liu et al., 2020, Travel Behavior and Society.
+> Assessment on Transportation Related Carbon Dioxide Emissions in the Yangtze River Delta, Jialin Liu et al., 2020.
 
-> Carbon Budgets Over a Deciduous Need-leaf Boreal Forest on Continuous Permafrost at Southern Margin of Central-Siberia, Jialin Liu et al., 2020, Journal of Geophysical Research-Biogeosciences.
+> Carbon Budgets Over a Deciduous Need-leaf Boreal Forest on Continuous Permafrost at Southern Margin of Central-Siberia, Jialin Liu et al., 2020.
 
-> Temperate Phenology in Response to Climate Extremes, lead by Canyu Zhu（junior of NYUSH), supervised by Jialin Liu, Biogeosciences.
+> Temperate Phenology in Response to Climate Extremes, lead by Canyu Zhu（junior of NYUSH), supervised by Jialin Liu.
 
-> Impacts of Regional Climate Anomalies on the Urban Tourism in Yangtze River Delta, lead Haoze Zhu (junior of NYUSH), supervised by Jialin Liu, Journal TBD.
+> Impacts of Regional Climate Anomalies on the Urban Tourism in Yangtze River Delta, lead by Haoze Zhu (junior of NYUSH), supervised by Jialin Liu.
 
-> Public Housing Effect on Neighborhood Sentiment in 3 Major Cities of US, lead by Zhirui Yao (senior of NYUSH), supervised by Jialin Liu, Journal TBD. 
+> Public Housing Effect on Neighborhood Sentiment in 3 Major Cities of US, lead by Zhirui Yao (senior of NYUSH), supervised by Jialin Liu. 
 
 > 3D Modeling for Urban Buildings and Improving Deep Learning Algorithm for Spatial Targets Recognization, lead by Wujie Duan & Wenxin Feng (Senior of NYUSH), supervised by Jialin Liu, also the a part of the [Capstone Project](https://shanghai.nyu.edu/academics/majors/data-science).
 
@@ -24,10 +24,7 @@
 
 ### My Cats （updated on March 09, 2020）
 
-> I have two lovely cats, a 15-months-old cute girl Xiang-Xiang (Munchkin British Short hair) and a 6-months-old gentleman Da-Ju (Chinese Garden Cat). Xiang-Xiang is an inherited name from my grandmother's dog, and both of them left me for over 15 years. Xiang-Xiang followed me moving to different places for many times, so she has a blood of brave. I adopted Da-Ju the last autumn ffrom my colleague's back yard, he is greedy and super-active. I love them so much as the same as I appreciate my life.
-
-> Sleepy Xiang-Xiang 
-![Sleepy Xiang-Xiang](https://s2.ax1x.com/2020/03/09/8SHnmQ.jpg)
+> I have two lovely cats, a 15-months-old cute girl Xiang-Xiang (Munchkin British Short hair) and a 6-months-old gentleman Da-Ju (Chinese Garden Cat). Xiang-Xiang is an inherited name from my grandmother's dog. Xiang-Xiang followed me moving to different places for many times, so she has a blood of brave. I adopted Da-Ju the last autumn from my colleague's back yard, he is greedy and super-active. I love them so much as the same as I appreciate my life.
 
 > Second day Da-Ju came home 
 ![Second day Da-Ju came home](https://s2.ax1x.com/2020/03/09/8SHZ6S.jpg)
