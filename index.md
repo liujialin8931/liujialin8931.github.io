@@ -1,6 +1,6 @@
 ### Welcome to Jialin Liu's GitHubPage
 
-- [ORCID](https://orcid.org/0000-0002-0661-8886)
+- See [ORCID](https://orcid.org/0000-0002-0661-8886) for a complete info.
 
 ### On-going project (updated March 20, 2020)
 
@@ -18,7 +18,7 @@
 
 ### Contacts
 
-> Office 1205, NYU Shanghai, 1555 Century Avenue, Pudong, Shanghai, 200120
-- [Email](jialin.liu@nyu.edu)
+> Office 1205, NYU Shanghai, 1555 Century Avenue, Pudong, Shanghai, 200122
+> [Email](jialin.liu@nyu.edu)
 
 ### My Cats
