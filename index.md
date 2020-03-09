@@ -18,4 +18,4 @@
 
 ### Contacts
 
-- [via Email](jialin.liu@nyu.edu)
+- [Email](jialin.liu@nyu.edu)
