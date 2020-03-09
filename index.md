@@ -26,9 +26,9 @@
 
 > I have two lovely cats, a 15-months-old cute girl Xiang-Xiang (Munchkin British Short hair) and a 6-months-old gentleman Da-Ju (Chinese Garden Cat). Xiang-Xiang is an inherited name from my grandmother's dog, and both of them left me for over 15 years. Xiang-Xiang followed me moving to different places for many times, so she has a blood of brave. I adopted Da-Ju the last autumn ffrom my colleague's back yard, he is greedy and super-active. I love them so much as the same as I appreciate my life.
 
-> ![Sleepy Xiang-Xiang](https://imgchr.com/i/8SHnmQ）
+> ![Sleepy Xiang-Xiang](https://s2.ax1x.com/2020/03/09/8SHnmQ.jpg)
 
-> ![Second day Da-Ju came home](https://imgchr.com/i/8SHZ6S)
+> ![Second day Da-Ju came home](https://s2.ax1x.com/2020/03/09/8SHZ6S.jpg)
 
-> ![Play with each other recently](https://imgchr.com/i/8SHeOg)
+> ![Play with each other recently](https://s2.ax1x.com/2020/03/09/8SHeOg.jpg)
 
