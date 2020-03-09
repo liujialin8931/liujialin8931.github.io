@@ -1,6 +1,6 @@
 ### Welcome to Jialin Liu's Pages
 
-- ORCID address: https://orcid.org/0000-0002-0661-8886
+- [ORCID](https://orcid.org/0000-0002-0661-8886)
 
 ### On-going project (updated March 20, 2020)
 
